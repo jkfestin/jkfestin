@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkfestin
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning this website
+- 🌱 I’m currently learning how to use this website
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
